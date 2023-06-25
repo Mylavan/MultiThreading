@@ -1,5 +1,10 @@
 # MultiThreading
 
+More threads != automatically less runtime.
+Sometimes Creating and Joining the thread itself will take time 
+Sometimes Single Thread does the job faster than Multi Threading
+
+
 Learning MultiThreading 
 
 #Contents 
